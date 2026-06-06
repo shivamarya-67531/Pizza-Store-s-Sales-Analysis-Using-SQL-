@@ -1,1 +1,1 @@
-# Pizza-Store-s-Sales-Analysis-Using-SQL-
+# Pizza-Store-Sales-Analysis-Using-SQL
